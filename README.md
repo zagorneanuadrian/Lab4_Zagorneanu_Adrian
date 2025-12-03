@@ -21,5 +21,6 @@ descendentă cu ajutorul metodei de sortare prin selecţie şi schimb
 
 
 Programul este un meniu interactiv care lucrează cu o matrice de numere întregi alocată dinamic.
+Compilarea programului se realizează cu ajutorul compilatorului GCC, folosind comanda: gcc LP4.c -o program
 
 
