@@ -1,4 +1,3 @@
-# Lab4_Zagorneanu_Adrian
 
 Теmа: Alocarea dinamică a memoriei pentru tablourile
 bidimensionale. Utilizarea funcţiilor şi a pointerilor 
